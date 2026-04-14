@@ -1,0 +1,6 @@
+[submodule "extern/openblas"]
+	path = extern/openblas
+	url = https://github.com/OpenMathLib/OpenBLAS.git
+[submodule "extern/cli11"]
+	path = extern/cli11
+	url = https://github.com/CLIUtils/CLI11.git
